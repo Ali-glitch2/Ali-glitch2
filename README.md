@@ -17,7 +17,7 @@
 
 - 🎓 Computer Engineering student at **AAST**
 - 🤝 Member of the **AWS community** at my college
-- ☁️ **Cloud Engineering Intern** at the National Telecommunication Institute: I deploy and manage AWS infrastructure (EC2, S3, IAM)
+- ☁️ Completed a **Cloud Engineering internship** at the National Telecommunication Institute (NTI), deploying and managing AWS infrastructure (EC2, S3, IAM)
 - 🏅 **AWS Certified Cloud Practitioner** and **AWS Certified AI Practitioner**
 - 🛠️ I automate infrastructure with **Terraform**, **CloudFormation**, **Python (Boto3)** and shell scripts
 - 📡 I build ops tooling with **Python & FastAPI**: health checks, uptime monitoring, incident tracking and server inventory
@@ -55,7 +55,7 @@
 
 | Role | Organization | Period |
 |------|--------------|--------|
-| ☁️ Cloud Engineering Intern | National Telecommunication Institute (Remote) | Aug 2025 – Present |
+| ☁️ Cloud Engineering Intern | National Telecommunication Institute (Remote) | Aug 2025 (completed) |
 | 💻 Software Engineer Trainee | Universidad de Burgos, Spain | Jan 2026 – Feb 2026 |
 | 🤖 Summer Intern, Generative AI Track | Commercial International Bank (CIB), Cairo | Jul 2025 – Aug 2025 |
 | 🧠 AI Engineering Intern | WE Telecom Egypt, Alexandria | Jul 2025 – Aug 2025 |
