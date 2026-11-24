@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://img.shields.io/badge/Alexandria,_Egypt-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=Ali-glitch2&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ---
