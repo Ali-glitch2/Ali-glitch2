@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Ali Ahmed 👋</h1>
-<h3 align="center">Cloud & DevOps Engineer · Computer Engineering Student · AWS Certified</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+Certified+x2;Terraform+%C2%B7+Docker+%C2%B7+Linux;Automating+infrastructure+%E2%9A%99%EF%B8%8F" alt="Typing intro"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-ahmed-581b0b35b">
@@ -15,15 +18,10 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Engineering student at **AAST**
-- 🤝 Member of the **AWS community** at my college
-- ☁️ Completed a **Cloud Engineering internship** at the National Telecommunication Institute (NTI), deploying and managing AWS infrastructure (EC2, S3, IAM)
-- 🏅 **AWS Certified Cloud Practitioner** and **AWS Certified AI Practitioner**
-- 🛠️ I automate infrastructure with **Terraform**, **CloudFormation**, **Python (Boto3)** and shell scripts
-- 📡 I build ops tooling with **Python & FastAPI**: health checks, uptime monitoring, incident tracking and server inventory
-- 🐧 I manage **Linux (Red Hat)** and **Windows Server** environments
-- 🎯 Looking for a **Cloud / DevOps / SysAdmin internship**
-- 🌍 Arabic (native) · English (fluent) · German (beginner)
+- 🎓 Computer Engineering @ **AAST** · AWS community member
+- ☁️ Cloud Engineering Intern @ **NTI**
+- 🛠️ AWS · Terraform · Docker · Linux · Python
+- 🎯 Open to **Cloud / DevOps internships**
 
 ---
 
