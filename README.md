@@ -15,7 +15,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Engineering student at **AAST** (GPA 3.78), with a dual degree from the **University of Northampton, UK**
+- 🎓 Computer Engineering student at **AAST**
+- 🤝 Member of the **AWS community** at my college
 - ☁️ **Cloud Engineering Intern** at the National Telecommunication Institute: I deploy and manage AWS infrastructure (EC2, S3, IAM)
 - 🏅 **AWS Certified Cloud Practitioner** and **AWS Certified AI Practitioner**
 - 🛠️ I automate infrastructure with **Terraform**, **CloudFormation**, **Python (Boto3)** and shell scripts
